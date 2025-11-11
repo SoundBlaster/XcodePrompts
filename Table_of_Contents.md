@@ -1,7 +1,22 @@
-
-```# Table of Contents
+# Table of Contents
 
 This document contains links to all prompts and documentation files in the XcodePrompts project.
+
+---
+
+## 📊 Summary
+- **Total Files**: 60 Markdown files
+- **Core Prompts**: 40 files in root directory
+- **Documentation**: 20 files in AdditionalDocumentation folder
+- **Last Updated**: 2025-06-17
+
+## 🔍 Quick Navigation
+- For **AI system prompts**, see the System Prompts section
+- For **code generation tools**, check Code Generation Prompts
+- For **framework documentation**, browse AdditionalDocumentation
+- For **integration helpers**, see Integration Prompts section
+
+---
 
 ## 📁 Root Directory - Core Prompts
 
@@ -102,17 +117,3 @@ This document contains links to all prompts and documentation files in the Xcode
 ### Widgets & visionOS
 - [WidgetKit-Implementing-Liquid-Glass-Design.md](AdditionalDocumentation/WidgetKit-Implementing-Liquid-Glass-Design.md)
 - [Widgets-for-visionOS.md](AdditionalDocumentation/Widgets-for-visionOS.md)
-
----
-
-## 📊 Summary
-- **Total Files**: 60 Markdown files
-- **Core Prompts**: 40 files in root directory
-- **Documentation**: 20 files in AdditionalDocumentation folder
-- **Last Updated**: 2025-06-17
-
-## 🔍 Quick Navigation
-- For **AI system prompts**, see the System Prompts section
-- For **code generation tools**, check Code Generation Prompts
-- For **framework documentation**, browse AdditionalDocumentation
-- For **integration helpers**, see Integration Prompts section
